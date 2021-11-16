@@ -1,5 +1,9 @@
 # Job-Analysis-Visualistaion
 
+Matplotlib was used to get some meaningul insights using visualisation from amazon_jobs_dataset.csv.
+
+All the problem statements answered are shown below
+
 - Problem Statement 1:
 Plot the line graph between no. of Job postings with respect to year.
 Print the year and the number of job posting as integer value.
